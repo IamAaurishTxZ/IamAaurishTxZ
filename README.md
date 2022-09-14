@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IamAaurishTxZ
-- 👀 I’m interested in Robotics, Embedded Systems, CyberSecurity, AI/ML/DL, Computer Networking
-- 🌱 I’m currently learning Embedded Systems
-- 💞️ I’m looking to collaborate on Embedded Systems, CyberSecurity, Computer Networking, AI
-- 📫 How to reach me aaurishTxZ@outlook.com
+- 👋 Hi, I’m @IamAaurishTxZ @codeanjal77
+- 👀 I’m software architect, full-stack web developer, iOS app developer and Student of Computer.
+- 🌱 I’m currently learning software architecture.
+- 💞️ I’m looking to collaborate on software architecture.
+- 📫 How to reach me aaurishTxZ@outlook.com, codeanjal77@gmail.com
 
 <!---
 IamAaurishTxZ/IamAaurishTxZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
